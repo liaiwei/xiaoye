@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>图标/NVR（正常）备份 2</title>
+    <defs>
+        <linearGradient x1="1.11022302e-14%" y1="94.7131948%" x2="100%" y2="5.28680523%" id="linearGradient-1">
+            <stop stop-color="#A56EFF" offset="0%"></stop>
+            <stop stop-color="#0F62FE" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="图标/NVR（正常）备份-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="NVR" transform="translate(4.776710, 0.000000)" fill-rule="nonzero">
+            <g id="编组" transform="translate(19.111645, 24.000000) scale(-1, 1) translate(-19.111645, -24.000000) ">
+                <polygon id="路径" fill="#757575" points="25.4861287 -1.28571562e-15 3.79866874e-15 14.7267347 12.7414089 22.3439638 38.2232899 7.62147685"></polygon>
+                <polygon id="路径" fill="#2C2C2C" points="38.2232899 7.62147685 38.2232899 33.2732653 12.7414089 48 12.7414089 22.3439638"></polygon>
+                <polygon id="路径" fill="#3C3C3C" points="-2.52619359e-21 40.3785232 12.7414089 48 12.7414089 22.3439638 -2.52619359e-21 14.7267347"></polygon>
+                <polygon id="路径" fill="url(#linearGradient-1)" points="1.18716554 21.2452813 11.436726 27.3249983 11.436726 23.7121643 1.18716554 17.6324474"></polygon>
+                <polygon id="路径" fill="#525252" points="1.18716554 26.3118363 11.436726 32.3915532 11.436726 28.7787193 1.18716554 22.6990023"></polygon>
+                <polygon id="路径" fill="#525252" points="1.18716554 31.3783912 11.436726 37.4581081 11.436726 33.8452742 1.18716554 27.7655572"></polygon>
+                <g id="编组-2" transform="translate(9.342165, 42.076974)" fill="#000000">
+                    <polygon id="路径" points="0.0146482774 -8.68189864e-25 0.0146482774 1.60350226 0.709145283 2.00278494 0.709145283 0.399282682"></polygon>
+                    <polygon id="路径" points="1.40364229 0.800689207 1.40364229 2.40419147 2.09813929 2.80559799 2.09813929 1.20209574"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

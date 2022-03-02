@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon_网口正常_selected备份</title>
+    <g id="icon_网口正常_selected备份" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" stroke="#3079FE" stroke-width="2" x="-1" y="-1" width="26" height="26" rx="2"></rect>
+        <g id="网口2" transform="translate(0.000000, 3.000000)" fill="#000000" fill-opacity="0.7" fill-rule="nonzero">
+            <polygon id="Path" points="5 3 5 1.11022302e-16 19 0 19 3 24 3 24 18 0 18 0 3"></polygon>
+        </g>
+    </g>
+</svg>
